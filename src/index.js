@@ -1,7 +1,7 @@
 import './style.css';
-import home from './homePage.index.js';
-import menu from './menuPage.index.js';
-import about from './aboutPage.index.js';
+import home from './scripts/homePage.index.js';
+import menu from './scripts/menuPage.index.js';
+import about from './scripts/aboutPage.index.js';
 
 const homeButton = document.querySelector("#homeBtn");
 const menuButton = document.querySelector("#menuBtn");

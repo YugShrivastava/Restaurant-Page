@@ -1,4 +1,4 @@
-import "./menuPage.css";
+import "../styles/menuPage.css";
 
 const content = document.querySelector("#content");
 const contentBox = document.createElement("div");

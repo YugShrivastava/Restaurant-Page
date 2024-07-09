@@ -1,5 +1,5 @@
-import imgBurger from './burger.png';
-import './homePage.css';
+import imgBurger from '../images/burger.png';
+import '../styles/homePage.css';
 
 const content = document.querySelector("#content");
 

@@ -1,4 +1,4 @@
-import './aboutPage.css';
+import '../styles/aboutPage.css';
 
 const content = document.querySelector("#content");
 
