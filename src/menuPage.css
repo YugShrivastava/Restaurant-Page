@@ -1,0 +1,19 @@
+.contentBox{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+    margin-top: 30px;
+}
+
+.orderCards{
+    width: 150px;
+    height: 150px;
+    border: 1px solid red;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background-color: beige;
+    color: darkorange;
+    padding: 10px;
+}
